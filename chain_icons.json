@@ -111,6 +111,14 @@
     "format": "png"
   }]
 }, {
+  "name": "satoshivm",
+  "icons": [{
+    "url": "ipfs://QmdXnQw9YwzEBZnciSe42MMwnH1SqhfY3FcVbseyM4k7Th",
+    "width": 940,
+    "height": 941,
+    "format": "png"
+  }]
+}, {
   "name": "kol",
   "icons": [{
     "url": "ipfs://QmTZFXhYJboYE9fbaeje12iTF3QPLn6xgyFgrDVe2isDBH",
@@ -357,6 +365,14 @@
     "width": 64,
     "height": 64,
     "format": "png"
+  }]
+}, {
+  "name": "hydradx",
+  "icons": [{
+    "url": "ipfs://QmQnx3j1ZtQ9Br873FuS6612HQfosXsr4Whew8eN4ArYwE",
+    "width": 400,
+    "height": 400,
+    "format": "svg"
   }]
 }, {
   "name": "mainnetzTestnet",
@@ -1156,6 +1172,14 @@
     "url": "ipfs://QmV8UmSwqGF2fxrqVEBTHbkyZueahqyYtkfH2RBF5pNysM",
     "width": 519,
     "height": 519,
+    "format": "svg"
+  }]
+}, {
+  "name": "odyssey",
+  "icons": [{
+    "url": "ipfs://QmVt5Y585JqBSrkpZmYaEnX9FW7tDwfDLmUGNyDdyV2Pd2",
+    "width": 48,
+    "height": 48,
     "format": "svg"
   }]
 }, {
@@ -2191,6 +2215,14 @@
     "format": "png"
   }]
 }, {
+  "name": "kronobit",
+  "icons": [{
+    "url": "ipfs://QmZEuR4bJaZkC497qQnsxHv23pZFcXb9dTdaDPCPo2sj9Z",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  }]
+}, {
   "name": "antofy",
   "icons": [{
     "url": "ipfs://QmdTfku81ohnG9ECU1Xswmeumt678cBhwHWuFYZ7i1Qsto",
@@ -2500,6 +2532,14 @@
     "url": "ipfs://QmdGCthKA11K9kCZJdbTP5WPAyq1wiRZ3REn6KG58MrWaE",
     "width": 159,
     "height": 159,
+    "format": "png"
+  }]
+}, {
+  "name": "syndr",
+  "icons": [{
+    "url": "ipfs://bafkreibsl7iuxeibovp7uddigbus3lyse2f7n4s2lomgvf33fmgyxjwq5i",
+    "width": 1000,
+    "height": 1000,
     "format": "png"
   }]
 }, {
@@ -2964,6 +3004,14 @@
     "url": "ipfs://QmQUHqi1gyuTuKmJQHqt9EyhN1FPmmmLNUK8u93nMGrxAy",
     "width": 1600,
     "height": 1600,
+    "format": "png"
+  }]
+}, {
+  "name": "filenova",
+  "icons": [{
+    "url": "ipfs://Qmc4KSKiAChhtN7ZNE5gvkLTRbvtLreKU9xaQFG8BKM8RE",
+    "width": 1000,
+    "height": 1000,
     "format": "png"
   }]
 }, {
@@ -4399,6 +4447,14 @@
     "format": "png"
   }]
 }, {
+  "name": "dreyerx",
+  "icons": [{
+    "url": "ipfs://QmTGjVbiSdHYhjzpeqzY6fGwGiLQuEa2hW7irD75sUSx9e",
+    "width": 4501,
+    "height": 4501,
+    "format": "png"
+  }]
+}, {
   "name": "ccp",
   "icons": [{
     "url": "ipfs://QmPw1ixYYeXvTiRWoCt2jWe4YMd3B5o7TzL18SBEHXvhXX",
@@ -4428,6 +4484,14 @@
     "url": "ipfs://QmaF5gi2CbDKsJ2UchNkjBqmWjv8JEDP3vePBmxeUHiaK4",
     "width": 250,
     "height": 250,
+    "format": "png"
+  }]
+}, {
+  "name": "qie",
+  "icons": [{
+    "url": "ipfs://QmRoNxCti6cHrPgZ48YQVSMg9g6ympfXuV8kGQJXrbbmed",
+    "width": 600,
+    "height": 600,
     "format": "png"
   }]
 }, {
