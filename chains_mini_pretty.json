@@ -7110,6 +7110,19 @@
   "faucets": [],
   "infoURL": "https://www.shrapnel.com/"
 }, {
+  "name": "Vanar Mainnet",
+  "chainId": 2040,
+  "shortName": "Vanar",
+  "networkId": 2040,
+  "nativeCurrency": {
+    "name": "VANRY",
+    "symbol": "VANRY",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.vanarchain.com", "wss://ws.vanarchain.com"],
+  "faucets": [],
+  "infoURL": "https://vanarchain.com"
+}, {
   "name": "OriginTrail Parachain",
   "chainId": 2043,
   "shortName": "otp",
@@ -7252,6 +7265,19 @@
   "rpc": ["https://rpc.exosama.com", "wss://rpc.exosama.com"],
   "faucets": [],
   "infoURL": "https://moonsama.com"
+}, {
+  "name": "Catena Mainnet",
+  "chainId": 2121,
+  "shortName": "cmcx",
+  "networkId": 2121,
+  "nativeCurrency": {
+    "name": "Catena",
+    "symbol": "CMCX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc1.catenarpc.com"],
+  "faucets": [],
+  "infoURL": "https://catena.network"
 }, {
   "name": "Metaplayerone Mainnet",
   "chainId": 2122,
@@ -8201,6 +8227,19 @@
   "rpc": ["https://rpc.paribu.network"],
   "faucets": [],
   "infoURL": "https://net.paribu.com"
+}, {
+  "name": "EVOLVE Mainnet",
+  "chainId": 3424,
+  "shortName": "EVOm",
+  "networkId": 3424,
+  "nativeCurrency": {
+    "name": "Evolve",
+    "symbol": "EVO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.evolveblockchain.io"],
+  "faucets": [],
+  "infoURL": "https://evolveblockchain.io"
 }, {
   "name": "SecureChain Testnet",
   "chainId": 3434,
@@ -10177,6 +10216,19 @@
   "rpc": ["https://rpc-athena.ardescan.com/"],
   "faucets": ["https://faucet-athena.ardescan.com/"],
   "infoURL": "https://ardenium.org"
+}, {
+  "name": "Dot Blox",
+  "chainId": 7923,
+  "shortName": "DTBX",
+  "networkId": 7923,
+  "nativeCurrency": {
+    "name": "Dot Blox",
+    "symbol": "DTBX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.dotblox.io"],
+  "faucets": [],
+  "infoURL": "https://explorer.dotblox.io"
 }, {
   "name": "DOS Chain",
   "chainId": 7979,
@@ -12713,6 +12765,19 @@
   "faucets": ["http://faucet.oasischain.io"],
   "infoURL": "https://scan.oasischain.io"
 }, {
+  "name": "Vizing Mainnet",
+  "chainId": 28518,
+  "shortName": "Vizing",
+  "networkId": 28518,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.vizing.com"],
+  "faucets": [],
+  "infoURL": "https://vizing.com"
+}, {
   "name": "Optimism Bedrock (Goerli Alpha Testnet)",
   "chainId": 28528,
   "shortName": "obgor",
@@ -13922,6 +13987,19 @@
   "faucets": [],
   "infoURL": "https://optopia.ai"
 }, {
+  "name": "Optopia Mainnet",
+  "chainId": 62050,
+  "shortName": "Optopia",
+  "networkId": 62050,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://optopia.ai"
+}, {
   "name": "Celo Baklava Testnet",
   "chainId": 62320,
   "shortName": "BKLV",
@@ -14383,7 +14461,7 @@
   "networkId": 78600,
   "nativeCurrency": {
     "name": "Vanguard Vanry",
-    "symbol": "VG",
+    "symbol": "VANRY",
     "decimals": 18
   },
   "rpc": ["https://rpc-vanguard.vanarchain.com", "wss://ws-vanguard.vanarchain.com"],
@@ -14425,7 +14503,7 @@
     "symbol": "MATIC",
     "decimals": 18
   },
-  "rpc": ["https://https://rpc-amoy.polygon.technology", "https://polygon-amoy-bor-rpc.publicnode.com", "wss://polygon-amoy-bor-rpc.publicnode.com"],
+  "rpc": ["https://rpc-amoy.polygon.technology", "https://polygon-amoy-bor-rpc.publicnode.com", "wss://polygon-amoy-bor-rpc.publicnode.com"],
   "faucets": ["https://faucet.polygon.technology/"],
   "infoURL": "https://polygon.technology/"
 }, {
@@ -15404,6 +15482,19 @@
   "faucets": [],
   "infoURL": "https://docs.ic-plaza.org/"
 }, {
+  "name": "PlayFi Mainnet",
+  "chainId": 161212,
+  "shortName": "playfi",
+  "networkId": 161212,
+  "nativeCurrency": {
+    "name": "Play",
+    "symbol": "PLAY",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://www.playfi.ai/"
+}, {
   "name": "Taiko (Alpha-2 Testnet)",
   "chainId": 167004,
   "shortName": "taiko-a2",
@@ -16171,6 +16262,19 @@
   "faucets": ["https://faucet.tipboxcoin.net"],
   "infoURL": "https://tipboxcoin.net"
 }, {
+  "name": "AIE Testnet",
+  "chainId": 413413,
+  "shortName": "aiet",
+  "networkId": 413413,
+  "nativeCurrency": {
+    "name": "AIE",
+    "symbol": "tAIE",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc1-testnet.aiechain.io"],
+  "faucets": [],
+  "infoURL": "https://testnet.aiescan.io"
+}, {
   "name": "Kekchain",
   "chainId": 420420,
   "shortName": "KEK",
@@ -16483,6 +16587,19 @@
   "faucets": [],
   "infoURL": "besceco.finance"
 }, {
+  "name": "Eclipse Testnet",
+  "chainId": 555666,
+  "shortName": "eclipset",
+  "networkId": 555666,
+  "nativeCurrency": {
+    "name": "Eclipse",
+    "symbol": "ECLP",
+    "decimals": 18
+  },
+  "rpc": ["https://subnets.avax.network/eclipsecha/testnet/rpc"],
+  "faucets": [],
+  "infoURL": "http://eclipsenet.io"
+}, {
   "name": "Hypra Mainnet",
   "chainId": 622277,
   "shortName": "hyp",
@@ -16688,6 +16805,19 @@
     "decimals": 18
   },
   "rpc": ["https://rpc.zklink.io", "wss://rpc.zklink.io"],
+  "faucets": [],
+  "infoURL": "https://zklink.io"
+}, {
+  "name": "zkLink Nova Sepolia Testnet",
+  "chainId": 810181,
+  "shortName": "zklink-nova-sepolia",
+  "networkId": 810181,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://sepolia.rpc.zklink.io", "wss://sepolia.rpc.zklink.io"],
   "faucets": [],
   "infoURL": "https://zklink.io"
 }, {
@@ -17002,6 +17132,19 @@
   "rpc": ["https://rpc.zhejiang.ethpandaops.io"],
   "faucets": ["https://faucet.zhejiang.ethpandaops.io", "https://zhejiang-faucet.pk910.de"],
   "infoURL": "https://zhejiang.ethpandaops.io"
+}, {
+  "name": "PlayFi Albireo Testnet",
+  "chainId": 1612127,
+  "shortName": "alberio",
+  "networkId": 1612127,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://albireo-rpc.playfi.ai"],
+  "faucets": [],
+  "infoURL": "https://www.playfi.ai/"
 }, {
   "name": "Turkey Demo Dev",
   "chainId": 1731313,

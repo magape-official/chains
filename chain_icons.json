@@ -871,6 +871,14 @@
     "format": "png"
   }]
 }, {
+  "name": "dotblox",
+  "icons": [{
+    "url": "ipfs://QmZy2TMY881ghRxXJA7VyRA8Zhj2LJJ86DpHRZs3VQZqoJ",
+    "width": 53,
+    "height": 53,
+    "format": "png"
+  }]
+}, {
   "name": "pocr",
   "icons": [{
     "url": "ipfs://QmRLwpq47tyEd3rfK4tKRhbTvyb3fc7PCutExnL1XAb37A",
@@ -1457,9 +1465,9 @@
 }, {
   "name": "oasys",
   "icons": [{
-    "url": "ipfs://QmT84suD2ZmTSraJBfeHhTNst2vXctQijNCztok9XiVcUR",
-    "width": 3600,
-    "height": 3600,
+    "url": "ipfs://QmVjT18MJ7S965w5oTce5D3KPbzfoGGaKaNDKJcfGfSNWm",
+    "width": 733,
+    "height": 733,
     "format": "png"
   }]
 }, {
@@ -1860,6 +1868,14 @@
     "url": "ipfs://QmYvFVprVdAGJH4iHUCXGEmy7pq8MMfxEjM64SuXutz9qx",
     "width": 256,
     "height": 256,
+    "format": "png"
+  }]
+}, {
+  "name": "vanar",
+  "icons": [{
+    "url": "ipfs://Qmbx25iq4Vn4zLooPit9bbguXJzdiogwtVQWtSseyQPuSC",
+    "width": 1000,
+    "height": 1628,
     "format": "png"
   }]
 }, {
@@ -2455,6 +2471,14 @@
     "format": "png"
   }]
 }, {
+  "name": "aie",
+  "icons": [{
+    "url": "ipfs://bafkreihok46mhn5yf7b5jgmq7tiyw2fw76wklvj4frpc3gbswgfxzerhhm",
+    "width": 3481,
+    "height": 3500,
+    "format": "png"
+  }]
+}, {
   "name": "eraswap",
   "icons": [{
     "url": "ipfs://QmV1wZ1RVXeD7216aiVBpLkbBBHWNuoTvcSzpVQsqi2uaH",
@@ -2732,6 +2756,14 @@
     "url": "ipfs://QmXGJevyPHHKT28hDfsJ9Cq2DQ2bAavdie37MEwFQUVCQz",
     "width": 500,
     "height": 500,
+    "format": "png"
+  }]
+}, {
+  "name": "catena",
+  "icons": [{
+    "url": "ipfs://QmeAwHS3wcYz7k24LSYEjN1G7nwSfWmGf5FghNZ2qzVD4N",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -3789,6 +3821,14 @@
     "width": 128,
     "height": 128,
     "format": "png"
+  }]
+}, {
+  "name": "vizing",
+  "icons": [{
+    "url": "ipfs://QmPgpWfGsAZ5UHekWFR8rioadVe3Wox8idFyeVxuv9N4Vo",
+    "width": 200,
+    "height": 200,
+    "format": "svg"
   }]
 }, {
   "name": "pulsechain",
